@@ -1,0 +1,162 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 38.950121342229046,
+               "lng" : -77.0648011965459
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.950121342229046,
+                  "lng" : -77.0648011965459
+               },
+               "southwest" : {
+                  "lat" : 38.950121342229046,
+                  "lng" : -77.0648011965459
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+         "id" : "e4d2b4caccffaf5bdc06816cf5f682d3c05ac9b4",
+         "name" : "Days Inn Washington",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               
+            }
+         ],
+         "place_id" : "ChIJh77eO9U9uxIRaUAeu1LgFMg",
+         "plus_code" : {
+            "compound_code" : "MP2Q+4J Malgrat de Mar, Spain",
+            "global_code" : "8FH4MP2Q+4J"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJh77eO9U9uxIRaUAeu1LgFMg",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "point_of_interest", "establishment" ],
+         "vicinity" : "Avinguda de la Costa Brava, 77, Malgrat de Mar"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 38.98875566952804,
+               "lng" : -77.09337584983983
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.98875566952804,
+                  "lng" : -77.09337584983983
+               },
+               "southwest" : {
+                  "lat" : 38.98875566952804,
+                  "lng" : -77.09337584983983
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+         "id" : "f046330d5ec31ec2cae9b6d477117db97576e377",
+         "name" : "Hyatt Regency ",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               
+            }
+         ],
+         "place_id" : "ChIJI3IphH8-uxIRVjGWvfBDyHY",
+         "plus_code" : {
+            "compound_code" : "JPXR+63 Malgrat de Mar, Spain",
+            "global_code" : "8FH4JPXR+63"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJI3IphH8-uxIRVjGWvfBDyHY",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "point_of_interest", "establishment" ],
+         "vicinity" : "Malgrat de Mar"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 39.02062113501134,
+               "lng" : -77.10303191712379
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.02062113501134,
+                  "lng" : -77.10303191712379
+               },
+               "southwest" : {
+                  "lat" : 39.02062113501134,
+                  "lng" : -77.10303191712379
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+         "id" : "1d9d44498dfbe21c0648ac84bb744f8c0b504fe4",
+         "name" : "Marriott",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               
+            }
+         ],
+         "place_id" : "ChIJyWqB5H8-uxIRnyccnEB1tWk",
+         "plus_code" : {
+            "compound_code" : "JPXR+C7 Malgrat de Mar, Spain",
+            "global_code" : "8FH4JPXR+C7"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJyWqB5H8-uxIRnyccnEB1tWk",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "point_of_interest", "establishment" ],
+         "vicinity" : "Carrer de Ponent, 58, Malgrat de Mar"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 38.98729477566452,
+               "lng" : -77.09091099541355
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.98729477566452,
+                  "lng" : -77.09091099541355
+               },
+               "southwest" : {
+                  "lat" : 38.98729477566452,
+                  "lng" : -77.09091099541355
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+         "id" : "505e61fd02e5c93f011df301919f0563629e9b4a",
+         "name" : "Hilton Garden Inn",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               
+            }
+         ],
+         "place_id" : "ChIJFx3DL9U9uxIR40Yn5myL_PI",
+         "plus_code" : {
+            "compound_code" : "MP2Q+4F Malgrat de Mar, Spain",
+            "global_code" : "8FH4MP2Q+4F"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJFx3DL9U9uxIR40Yn5myL_PI",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "point_of_interest", "establishment" ],
+         "vicinity" : "Avinguda de la Costa Brava, 116, Malgrat de Mar"
+      }
+   ],
+   "status" : "OK"
+}
